@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SEASON>
+    <SPORT>
+        <TITLE>Football</TITLE>
+        <MATCHDAY> 01 Of March 2019 </MATCHDAY>
+        <MATCH> BTU vs Bayern </MATCH>
+        <STARTTIME> 18:00 </STARTTIME>
+        <ENDTIME> 21:00 </ENDTIME>
+        <VENUE> BTU Sport Stadium </VENUE>
+    </SPORT>
+    <SPORT>
+        <TITLE>Basketball</TITLE>
+        <MATCHDAY> 03 Of March 2019 </MATCHDAY>
+        <MATCH> BTU vs Berlin </MATCH>
+        <STARTTIME> 18:00 </STARTTIME>
+        <ENDTIME> 21:00 </ENDTIME>
+        <VENUE> BTU Sport Stadium </VENUE>
+    </SPORT>
+
+    <SPORT>
+        <TITLE>Swimming</TITLE>
+        <MATCHDAY> 13 Of March 2019 </MATCHDAY>
+        <MATCH> BTU vs Munich </MATCH>
+        <STARTTIME> 18:00 </STARTTIME>
+        <ENDTIME> 21:00 </ENDTIME>
+        <VENUE> BTU Sport Stadium </VENUE>
+    </SPORT>
+
+
+    <SPORT>
+        <TITLE>Tennis</TITLE>
+        <MATCHDAY> 23 Of March 2019 </MATCHDAY>
+        <MATCH> BTU vs Dresden </MATCH>
+        <STARTTIME> 18:00 </STARTTIME>
+        <ENDTIME> 21:00 </ENDTIME>
+        <VENUE> BTU Sport Stadium </VENUE>
+    </SPORT>
+
+
+
+    <SPORT>
+        <TITLE>Weight lifting</TITLE>
+        <MATCHDAY> 18 Of March 2019 </MATCHDAY>
+        <MATCH> BTU vs Hamburg </MATCH>
+        <STARTTIME> 18:00 </STARTTIME>
+        <ENDTIME> 21:00 </ENDTIME>
+        <VENUE> BTU Sport Stadium </VENUE>
+    </SPORT>
+
+
+
+</SEASON>
